@@ -154,7 +154,7 @@ $ git restore exercicio01
 error: pathspec 'exercicio01' did not match any file(s) known to git
 
 leonardo.lindgren@DM-002814 MINGW64 /c/mba/exercicio01 (main)
-$ git restore arquivo.txt
+$ git restore arquivogit .txt
 
 leonardo.lindgren@DM-002814 MINGW64 /c/mba/exercicio01 (main)
 $ git status
